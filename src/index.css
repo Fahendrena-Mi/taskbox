@@ -319,7 +319,7 @@ textarea {
 }
 
 .pin-button:active {
-  color: #555;
+  color: #222;
 }
 
 .list-item.TASK_PINNED .icon-star {
